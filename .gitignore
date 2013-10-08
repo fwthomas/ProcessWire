@@ -23,3 +23,7 @@ site-skyscrapers
 .htaccess
 tmp
 upgrade.php
+
+
+# ignoring template directory
+templates/*
